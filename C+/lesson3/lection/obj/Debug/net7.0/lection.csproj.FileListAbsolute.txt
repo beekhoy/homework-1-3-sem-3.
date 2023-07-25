@@ -1,0 +1,15 @@
+/Users/mikailsadykov/Desktop/GeekBrains/C+/lesson3/lection/bin/Debug/net7.0/lection
+/Users/mikailsadykov/Desktop/GeekBrains/C+/lesson3/lection/bin/Debug/net7.0/lection.deps.json
+/Users/mikailsadykov/Desktop/GeekBrains/C+/lesson3/lection/bin/Debug/net7.0/lection.runtimeconfig.json
+/Users/mikailsadykov/Desktop/GeekBrains/C+/lesson3/lection/bin/Debug/net7.0/lection.dll
+/Users/mikailsadykov/Desktop/GeekBrains/C+/lesson3/lection/bin/Debug/net7.0/lection.pdb
+/Users/mikailsadykov/Desktop/GeekBrains/C+/lesson3/lection/obj/Debug/net7.0/lection.csproj.AssemblyReference.cache
+/Users/mikailsadykov/Desktop/GeekBrains/C+/lesson3/lection/obj/Debug/net7.0/lection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikailsadykov/Desktop/GeekBrains/C+/lesson3/lection/obj/Debug/net7.0/lection.AssemblyInfoInputs.cache
+/Users/mikailsadykov/Desktop/GeekBrains/C+/lesson3/lection/obj/Debug/net7.0/lection.AssemblyInfo.cs
+/Users/mikailsadykov/Desktop/GeekBrains/C+/lesson3/lection/obj/Debug/net7.0/lection.csproj.CoreCompileInputs.cache
+/Users/mikailsadykov/Desktop/GeekBrains/C+/lesson3/lection/obj/Debug/net7.0/lection.dll
+/Users/mikailsadykov/Desktop/GeekBrains/C+/lesson3/lection/obj/Debug/net7.0/refint/lection.dll
+/Users/mikailsadykov/Desktop/GeekBrains/C+/lesson3/lection/obj/Debug/net7.0/lection.pdb
+/Users/mikailsadykov/Desktop/GeekBrains/C+/lesson3/lection/obj/Debug/net7.0/lection.genruntimeconfig.cache
+/Users/mikailsadykov/Desktop/GeekBrains/C+/lesson3/lection/obj/Debug/net7.0/ref/lection.dll
