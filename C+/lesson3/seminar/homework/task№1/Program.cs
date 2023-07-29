@@ -10,7 +10,8 @@ string NumCheck(int x)
         {
             Console.WriteLine("ДА");
         }
-        else{
+        else
+        {
             Console.WriteLine("НЕТ");
         }
     else
