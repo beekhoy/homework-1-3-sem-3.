@@ -1,0 +1,15 @@
+/Users/mikailsadykov/Desktop/GeekBrains/C+/Lesson4/HomeWork/Задача-1/bin/Debug/net7.0/Задача-1
+/Users/mikailsadykov/Desktop/GeekBrains/C+/Lesson4/HomeWork/Задача-1/bin/Debug/net7.0/Задача-1.deps.json
+/Users/mikailsadykov/Desktop/GeekBrains/C+/Lesson4/HomeWork/Задача-1/bin/Debug/net7.0/Задача-1.runtimeconfig.json
+/Users/mikailsadykov/Desktop/GeekBrains/C+/Lesson4/HomeWork/Задача-1/bin/Debug/net7.0/Задача-1.dll
+/Users/mikailsadykov/Desktop/GeekBrains/C+/Lesson4/HomeWork/Задача-1/bin/Debug/net7.0/Задача-1.pdb
+/Users/mikailsadykov/Desktop/GeekBrains/C+/Lesson4/HomeWork/Задача-1/obj/Debug/net7.0/Задача-1.csproj.AssemblyReference.cache
+/Users/mikailsadykov/Desktop/GeekBrains/C+/Lesson4/HomeWork/Задача-1/obj/Debug/net7.0/Задача-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikailsadykov/Desktop/GeekBrains/C+/Lesson4/HomeWork/Задача-1/obj/Debug/net7.0/Задача-1.AssemblyInfoInputs.cache
+/Users/mikailsadykov/Desktop/GeekBrains/C+/Lesson4/HomeWork/Задача-1/obj/Debug/net7.0/Задача-1.AssemblyInfo.cs
+/Users/mikailsadykov/Desktop/GeekBrains/C+/Lesson4/HomeWork/Задача-1/obj/Debug/net7.0/Задача-1.csproj.CoreCompileInputs.cache
+/Users/mikailsadykov/Desktop/GeekBrains/C+/Lesson4/HomeWork/Задача-1/obj/Debug/net7.0/Задача-1.dll
+/Users/mikailsadykov/Desktop/GeekBrains/C+/Lesson4/HomeWork/Задача-1/obj/Debug/net7.0/refint/Задача-1.dll
+/Users/mikailsadykov/Desktop/GeekBrains/C+/Lesson4/HomeWork/Задача-1/obj/Debug/net7.0/Задача-1.pdb
+/Users/mikailsadykov/Desktop/GeekBrains/C+/Lesson4/HomeWork/Задача-1/obj/Debug/net7.0/Задача-1.genruntimeconfig.cache
+/Users/mikailsadykov/Desktop/GeekBrains/C+/Lesson4/HomeWork/Задача-1/obj/Debug/net7.0/ref/Задача-1.dll
